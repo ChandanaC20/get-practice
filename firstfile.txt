@@ -1,3 +1,6 @@
 Hello git
 
+
 "This is master conflict update"
+
+"This is the conflict branch text"
